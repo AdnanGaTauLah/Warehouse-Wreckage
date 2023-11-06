@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/StarterMap.umap",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/Advanced_Lighting.umap",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/Minimal_Default.umap",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/Advanced_Lighting_BuiltData.uasset",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/Minimal_Default_BuiltData.uasset",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Duplicate/StarterMap_BuiltData.uasset",
+				"D:/Mahasiswa/GT09B/AdnanUnrealPortofolio/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/BP_Projectile.uasset"
 			]
 		}
 	]
